@@ -1,3 +1,3 @@
-it('unit test', () => {
+it('integration test', () => {
   expect(true).toBe(true);
 });
